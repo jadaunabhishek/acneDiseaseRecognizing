@@ -1,0 +1,622 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		D54CA2982B4D4B40008DE415 /* dermShieldModelTestingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D54CA2972B4D4B40008DE415 /* dermShieldModelTestingApp.swift */; };
+		D54CA29A2B4D4B40008DE415 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D54CA2992B4D4B40008DE415 /* ContentView.swift */; };
+		D54CA29C2B4D4B42008DE415 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D54CA29B2B4D4B42008DE415 /* Assets.xcassets */; };
+		D54CA2A02B4D4B42008DE415 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D54CA29F2B4D4B42008DE415 /* Preview Assets.xcassets */; };
+		D54CA2AA2B4D4B42008DE415 /* dermShieldModelTestingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D54CA2A92B4D4B42008DE415 /* dermShieldModelTestingTests.swift */; };
+		D54CA2B42B4D4B42008DE415 /* dermShieldModelTestingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D54CA2B32B4D4B42008DE415 /* dermShieldModelTestingUITests.swift */; };
+		D54CA2B62B4D4B42008DE415 /* dermShieldModelTestingUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D54CA2B52B4D4B42008DE415 /* dermShieldModelTestingUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		D54CA2A62B4D4B42008DE415 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D54CA28C2B4D4B40008DE415 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D54CA2932B4D4B40008DE415;
+			remoteInfo = dermShieldModelTesting;
+		};
+		D54CA2B02B4D4B42008DE415 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D54CA28C2B4D4B40008DE415 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D54CA2932B4D4B40008DE415;
+			remoteInfo = dermShieldModelTesting;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		D54CA2942B4D4B40008DE415 /* dermShieldModelTesting.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = dermShieldModelTesting.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D54CA2972B4D4B40008DE415 /* dermShieldModelTestingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dermShieldModelTestingApp.swift; sourceTree = "<group>"; };
+		D54CA2992B4D4B40008DE415 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		D54CA29B2B4D4B42008DE415 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D54CA29D2B4D4B42008DE415 /* dermShieldModelTesting.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = dermShieldModelTesting.entitlements; sourceTree = "<group>"; };
+		D54CA29F2B4D4B42008DE415 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D54CA2A52B4D4B42008DE415 /* dermShieldModelTestingTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = dermShieldModelTestingTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D54CA2A92B4D4B42008DE415 /* dermShieldModelTestingTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dermShieldModelTestingTests.swift; sourceTree = "<group>"; };
+		D54CA2AF2B4D4B42008DE415 /* dermShieldModelTestingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = dermShieldModelTestingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D54CA2B32B4D4B42008DE415 /* dermShieldModelTestingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dermShieldModelTestingUITests.swift; sourceTree = "<group>"; };
+		D54CA2B52B4D4B42008DE415 /* dermShieldModelTestingUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dermShieldModelTestingUITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D54CA2912B4D4B40008DE415 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D54CA2A22B4D4B42008DE415 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D54CA2AC2B4D4B42008DE415 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D54CA28B2B4D4B40008DE415 = {
+			isa = PBXGroup;
+			children = (
+				D54CA2962B4D4B40008DE415 /* dermShieldModelTesting */,
+				D54CA2A82B4D4B42008DE415 /* dermShieldModelTestingTests */,
+				D54CA2B22B4D4B42008DE415 /* dermShieldModelTestingUITests */,
+				D54CA2952B4D4B40008DE415 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D54CA2952B4D4B40008DE415 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D54CA2942B4D4B40008DE415 /* dermShieldModelTesting.app */,
+				D54CA2A52B4D4B42008DE415 /* dermShieldModelTestingTests.xctest */,
+				D54CA2AF2B4D4B42008DE415 /* dermShieldModelTestingUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D54CA2962B4D4B40008DE415 /* dermShieldModelTesting */ = {
+			isa = PBXGroup;
+			children = (
+				D54CA2972B4D4B40008DE415 /* dermShieldModelTestingApp.swift */,
+				D54CA2992B4D4B40008DE415 /* ContentView.swift */,
+				D54CA29B2B4D4B42008DE415 /* Assets.xcassets */,
+				D54CA29D2B4D4B42008DE415 /* dermShieldModelTesting.entitlements */,
+				D54CA29E2B4D4B42008DE415 /* Preview Content */,
+			);
+			path = dermShieldModelTesting;
+			sourceTree = "<group>";
+		};
+		D54CA29E2B4D4B42008DE415 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				D54CA29F2B4D4B42008DE415 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		D54CA2A82B4D4B42008DE415 /* dermShieldModelTestingTests */ = {
+			isa = PBXGroup;
+			children = (
+				D54CA2A92B4D4B42008DE415 /* dermShieldModelTestingTests.swift */,
+			);
+			path = dermShieldModelTestingTests;
+			sourceTree = "<group>";
+		};
+		D54CA2B22B4D4B42008DE415 /* dermShieldModelTestingUITests */ = {
+			isa = PBXGroup;
+			children = (
+				D54CA2B32B4D4B42008DE415 /* dermShieldModelTestingUITests.swift */,
+				D54CA2B52B4D4B42008DE415 /* dermShieldModelTestingUITestsLaunchTests.swift */,
+			);
+			path = dermShieldModelTestingUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D54CA2932B4D4B40008DE415 /* dermShieldModelTesting */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D54CA2B92B4D4B42008DE415 /* Build configuration list for PBXNativeTarget "dermShieldModelTesting" */;
+			buildPhases = (
+				D54CA2902B4D4B40008DE415 /* Sources */,
+				D54CA2912B4D4B40008DE415 /* Frameworks */,
+				D54CA2922B4D4B40008DE415 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = dermShieldModelTesting;
+			productName = dermShieldModelTesting;
+			productReference = D54CA2942B4D4B40008DE415 /* dermShieldModelTesting.app */;
+			productType = "com.apple.product-type.application";
+		};
+		D54CA2A42B4D4B42008DE415 /* dermShieldModelTestingTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D54CA2BC2B4D4B42008DE415 /* Build configuration list for PBXNativeTarget "dermShieldModelTestingTests" */;
+			buildPhases = (
+				D54CA2A12B4D4B42008DE415 /* Sources */,
+				D54CA2A22B4D4B42008DE415 /* Frameworks */,
+				D54CA2A32B4D4B42008DE415 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D54CA2A72B4D4B42008DE415 /* PBXTargetDependency */,
+			);
+			name = dermShieldModelTestingTests;
+			productName = dermShieldModelTestingTests;
+			productReference = D54CA2A52B4D4B42008DE415 /* dermShieldModelTestingTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		D54CA2AE2B4D4B42008DE415 /* dermShieldModelTestingUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D54CA2BF2B4D4B42008DE415 /* Build configuration list for PBXNativeTarget "dermShieldModelTestingUITests" */;
+			buildPhases = (
+				D54CA2AB2B4D4B42008DE415 /* Sources */,
+				D54CA2AC2B4D4B42008DE415 /* Frameworks */,
+				D54CA2AD2B4D4B42008DE415 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D54CA2B12B4D4B42008DE415 /* PBXTargetDependency */,
+			);
+			name = dermShieldModelTestingUITests;
+			productName = dermShieldModelTestingUITests;
+			productReference = D54CA2AF2B4D4B42008DE415 /* dermShieldModelTestingUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D54CA28C2B4D4B40008DE415 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1510;
+				LastUpgradeCheck = 1510;
+				TargetAttributes = {
+					D54CA2932B4D4B40008DE415 = {
+						CreatedOnToolsVersion = 15.1;
+					};
+					D54CA2A42B4D4B42008DE415 = {
+						CreatedOnToolsVersion = 15.1;
+						TestTargetID = D54CA2932B4D4B40008DE415;
+					};
+					D54CA2AE2B4D4B42008DE415 = {
+						CreatedOnToolsVersion = 15.1;
+						TestTargetID = D54CA2932B4D4B40008DE415;
+					};
+				};
+			};
+			buildConfigurationList = D54CA28F2B4D4B40008DE415 /* Build configuration list for PBXProject "dermShieldModelTesting" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D54CA28B2B4D4B40008DE415;
+			productRefGroup = D54CA2952B4D4B40008DE415 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D54CA2932B4D4B40008DE415 /* dermShieldModelTesting */,
+				D54CA2A42B4D4B42008DE415 /* dermShieldModelTestingTests */,
+				D54CA2AE2B4D4B42008DE415 /* dermShieldModelTestingUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D54CA2922B4D4B40008DE415 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D54CA2A02B4D4B42008DE415 /* Preview Assets.xcassets in Resources */,
+				D54CA29C2B4D4B42008DE415 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D54CA2A32B4D4B42008DE415 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D54CA2AD2B4D4B42008DE415 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D54CA2902B4D4B40008DE415 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D54CA29A2B4D4B40008DE415 /* ContentView.swift in Sources */,
+				D54CA2982B4D4B40008DE415 /* dermShieldModelTestingApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D54CA2A12B4D4B42008DE415 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D54CA2AA2B4D4B42008DE415 /* dermShieldModelTestingTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D54CA2AB2B4D4B42008DE415 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D54CA2B62B4D4B42008DE415 /* dermShieldModelTestingUITestsLaunchTests.swift in Sources */,
+				D54CA2B42B4D4B42008DE415 /* dermShieldModelTestingUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		D54CA2A72B4D4B42008DE415 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D54CA2932B4D4B40008DE415 /* dermShieldModelTesting */;
+			targetProxy = D54CA2A62B4D4B42008DE415 /* PBXContainerItemProxy */;
+		};
+		D54CA2B12B4D4B42008DE415 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D54CA2932B4D4B40008DE415 /* dermShieldModelTesting */;
+			targetProxy = D54CA2B02B4D4B42008DE415 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		D54CA2B72B4D4B42008DE415 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		D54CA2B82B4D4B42008DE415 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		D54CA2BA2B4D4B42008DE415 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = dermShieldModelTesting/dermShieldModelTesting.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"dermShieldModelTesting/Preview Content\"";
+				DEVELOPMENT_TEAM = 8GNM624FRA;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
+				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
+				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 14.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = abhiDev.dermShieldModelTesting;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		D54CA2BB2B4D4B42008DE415 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = dermShieldModelTesting/dermShieldModelTesting.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"dermShieldModelTesting/Preview Content\"";
+				DEVELOPMENT_TEAM = 8GNM624FRA;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
+				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
+				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 14.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = abhiDev.dermShieldModelTesting;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		D54CA2BD2B4D4B42008DE415 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8GNM624FRA;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				MACOSX_DEPLOYMENT_TARGET = 14.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = abhiDev.dermShieldModelTestingTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/dermShieldModelTesting.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/dermShieldModelTesting";
+			};
+			name = Debug;
+		};
+		D54CA2BE2B4D4B42008DE415 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8GNM624FRA;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				MACOSX_DEPLOYMENT_TARGET = 14.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = abhiDev.dermShieldModelTestingTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/dermShieldModelTesting.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/dermShieldModelTesting";
+			};
+			name = Release;
+		};
+		D54CA2C02B4D4B42008DE415 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8GNM624FRA;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				MACOSX_DEPLOYMENT_TARGET = 14.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = abhiDev.dermShieldModelTestingUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = dermShieldModelTesting;
+			};
+			name = Debug;
+		};
+		D54CA2C12B4D4B42008DE415 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8GNM624FRA;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				MACOSX_DEPLOYMENT_TARGET = 14.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = abhiDev.dermShieldModelTestingUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = dermShieldModelTesting;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D54CA28F2B4D4B40008DE415 /* Build configuration list for PBXProject "dermShieldModelTesting" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D54CA2B72B4D4B42008DE415 /* Debug */,
+				D54CA2B82B4D4B42008DE415 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D54CA2B92B4D4B42008DE415 /* Build configuration list for PBXNativeTarget "dermShieldModelTesting" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D54CA2BA2B4D4B42008DE415 /* Debug */,
+				D54CA2BB2B4D4B42008DE415 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D54CA2BC2B4D4B42008DE415 /* Build configuration list for PBXNativeTarget "dermShieldModelTestingTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D54CA2BD2B4D4B42008DE415 /* Debug */,
+				D54CA2BE2B4D4B42008DE415 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D54CA2BF2B4D4B42008DE415 /* Build configuration list for PBXNativeTarget "dermShieldModelTestingUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D54CA2C02B4D4B42008DE415 /* Debug */,
+				D54CA2C12B4D4B42008DE415 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D54CA28C2B4D4B40008DE415 /* Project object */;
+}
